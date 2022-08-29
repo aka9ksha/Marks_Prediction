@@ -2,6 +2,8 @@
   <h1>Score Prediction Web App </h1>
 </div>
 
+ <h1 align="center"><img src="https://user-images.githubusercontent.com/93517164/187303665-2fe60918-2a95-4818-9541-c63960a068cf.PNG" width="700"></h1>
+
 ***********************************************************
 # About the Web App
 `Score Prediction Web App` is a web app build with Flask where we can predict the price of `score` of a student based how many `hour` they study.
@@ -31,6 +33,8 @@
 1.4 Create vir environment `$env:FLASK_ENV = "development"` 
 
 1.5 `flask run`
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/93517164/187304050-8a30a3d0-53d9-4164-bedf-28c69422dda0.PNG" width="500"></h1>
   
 
 
